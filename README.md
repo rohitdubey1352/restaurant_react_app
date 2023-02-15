@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Preview Site
+https://earnest-dango-781d70.netlify.app/
 
 ## Available Scripts
 
